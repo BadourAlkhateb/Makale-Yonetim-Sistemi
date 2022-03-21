@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bidor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bidor\\.nuget\\packages"
+    ]
+  }
+}

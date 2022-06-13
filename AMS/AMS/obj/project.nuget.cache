@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xXrjUpGGVNmB2fCNrokKSPMVqg16wHpppqDOhUbGPoG4/TO+TCLI3rGXRZX6aV0CVSp4Di0xGGqnJjtpPrSRUQ==",
+  "dgSpecHash": "MGuVNqu8lvIwsnTAYgcaBVPf0O8tXkIh+zK7yb1EZPNVfB7kJo43+97GUopHUNkjHJsMxbWyxC6n8u1D0qG6YA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bidor\\Desktop\\AMS-master\\AMS\\AMS\\AMS.csproj",
   "expectedPackageFiles": [
@@ -145,7 +145,8 @@
     "C:\\Users\\bidor\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\bidor\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\bidor\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\bidor\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\bidor\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\bidor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],
   "logs": []
 }
